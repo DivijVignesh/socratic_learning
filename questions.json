@@ -1,0 +1,14 @@
+{
+    "Bubble Sort": [
+        "Can you explain how Bubble Sort works?",
+        "What is the time complexity of Bubble Sort?",
+        "In what scenarios might Bubble Sort be preferable to other sorting algorithms?",
+        "How can we optimize Bubble Sort to perform better in certain cases?"
+    ],
+    "Quick Sort": [
+        "Can you describe the main steps in the Quick Sort algorithm?",
+        "What is the average time complexity of Quick Sort, and why?",
+        "How does the choice of pivot affect Quick Sort's performance?",
+        "Can you think of a worst-case scenario for Quick Sort?"
+    ]
+}
